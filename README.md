@@ -1,5 +1,7 @@
 # Delivery_POO
-Projeto para implementar a modelagem de um sistema de delivery de refeições. Serão considerados como requisitos:
+Projeto para implementar a modelagem de um sistema de delivery de refeições. Projeto relativo ao módulo de Orientação a Objetos em Javascript, do programa Vem Ser Tech, realizado em um grupo de 5 pessoas: Eu (João Vitor Nunes), Rodrigo Mendes (https://github.com/rodrigomendes47), Weatherlly Moura (https://github.com/Weatherlly), Nicolas Araújo (https://github.com/Nickolaz47) e Danniel Dias (https://github.com/ddiasguto)
+
+Serão considerados como requisitos:
 
 - Deverão ser abordados os conceitos estudados ao longo do módulo, a saber: Orientação a Objetos, Classes, Atributos, Métodos, Herança, Polimorfismo, Encapsulamento, Métodos de acesso, etc
 - Existem 3 perfis possíveis de usuários (cliente, lojista e entregador);
